@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: black;">
+    <table>
+        <thead>
+            <tr>
+                <th>bach</th>
+                <th>bach</th>
+                <th>bach</th>
+            </tr>
+        </thead>
+    </table>
+</body>
+</html>
+
+<style>
+    table {
+        color: white;
+        background-color : #505050;
+        width: 100%;
+    }
+</style>
